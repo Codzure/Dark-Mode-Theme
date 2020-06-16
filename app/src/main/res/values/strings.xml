@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DarkMode_Kotlin</string>
+    <string name="choose_theme_text">Choose theme</string>
+</resources>
